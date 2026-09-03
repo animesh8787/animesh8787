@@ -41,7 +41,7 @@ on top of them.
 
 - Currently building **[TalentRank](https://github.com/animesh8787/TalentRank)** — explainable resume screening, FastAPI + React
 - Also running **[nexus-os](https://github.com/animesh8787/nexus-os)**, a personal engineering dashboard
-- Portfolio: **[animesh-portfolio-smoky.vercel.app](https://animesh-portfolio-smoky.vercel.app)**
+- Portfolio: **[animeshdhiman.dev](https://animeshdhiman.dev)**
 - Learning **ML systems**, and how to ship a FastAPI/React app end to end
 - Goal: **Google Summer of Code 2026**
 
