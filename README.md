@@ -35,7 +35,7 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Animesh** — a 3rd-year CS student who spends most of the time at the
+Hi, I'm **Animesh** — a 4th-year CS student who spends most of the time at the
 machine-learning and data end of things, and the rest building web tools to sit
 on top of them.
 
