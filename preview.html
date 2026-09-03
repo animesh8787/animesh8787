@@ -1,0 +1,73 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>profile assets preview</title>
+<style>
+  :root { color-scheme: dark }
+  body { background:#0d1117; color:#c9d1d9; font:15px/1.5 ui-sans-serif,Segoe UI,system-ui,sans-serif;
+         margin:0; padding:40px; }
+  h1 { font-size:20px; color:#39d353; letter-spacing:.02em }
+  h2 { font-size:13px; text-transform:uppercase; letter-spacing:.12em; color:#8b949e;
+       border-bottom:1px solid #21262d; padding-bottom:8px; margin:44px 0 18px }
+  .row { display:flex; gap:28px; flex-wrap:wrap; align-items:flex-start }
+  .card { background:#0d1117; border:1px solid #21262d; border-radius:10px; padding:18px }
+  .card.light { background:#fff }
+  .tag { font:11px ui-monospace,Consolas,monospace; color:#8b949e; display:block; margin-bottom:10px }
+  .card.light .tag { color:#57606a }
+  img { display:block; max-width:100% }
+  button { background:#21262d; color:#c9d1d9; border:1px solid #30363d; border-radius:6px;
+           padding:5px 12px; font:inherit; font-size:12px; cursor:pointer; margin-left:14px;
+           vertical-align:middle; text-transform:none; letter-spacing:0 }
+  button:hover { background:#30363d; border-color:#39d353; color:#39d353 }
+  .missing { color:#8b949e; font-style:italic; font-size:13px }
+</style>
+
+<h1>profile assets — local preview</h1>
+<p class="missing">Each asset on a dark and a light card, the way GitHub renders it.
+metrics.*.svg and the snake are generated on GitHub, not here.</p>
+
+<h2>portrait <button id="replay">replay the load-in</button></h2>
+<div class="row">
+  <div class="card"><span class="tag">portrait.svg (on dark)</span>
+    <img class="portrait" src="assets/portrait.svg" width="300" onerror="this.replaceWith(Object.assign(document.createElement('p'),{className:'missing',textContent:'not generated yet — run dotify.py'}))"></div>
+  <div class="card light"><span class="tag">portrait.svg (on light)</span>
+    <img class="portrait" src="assets/portrait.svg" width="300"></div>
+</div>
+<script>
+  document.getElementById('replay').onclick = () => {
+    document.querySelectorAll('img.portrait').forEach(img => {
+      img.src = 'assets/portrait.svg?' + Date.now();
+    });
+  };
+</script>
+
+<h2>skill radar</h2>
+<div class="row">
+  <div class="card"><span class="tag">radar-dark.svg</span><img src="assets/radar-dark.svg" width="400"></div>
+  <div class="card light"><span class="tag">radar-light.svg</span><img src="assets/radar-light.svg" width="400"></div>
+</div>
+
+<h2>language radar</h2>
+<div class="row">
+  <div class="card"><span class="tag">radar-langs-dark.svg</span><img src="assets/radar-langs-dark.svg" width="400"></div>
+  <div class="card light"><span class="tag">radar-langs-light.svg</span><img src="assets/radar-langs-light.svg" width="400"></div>
+</div>
+
+<h2>stat card</h2>
+<div class="row">
+  <div class="card"><span class="tag">card-stats-dark.svg</span><img src="assets/card-stats-dark.svg" width="480"></div>
+  <div class="card light"><span class="tag">card-stats-light.svg</span><img src="assets/card-stats-light.svg" width="480"></div>
+</div>
+
+<h2>project cards</h2>
+<div class="row">
+  <div class="card"><span class="tag">card-TalentRank-dark.svg</span><img src="assets/card-TalentRank-dark.svg" width="420"></div>
+  <div class="card"><span class="tag">card-nexus-os-dark.svg</span><img src="assets/card-nexus-os-dark.svg" width="420"></div>
+</div>
+<div class="row">
+  <div class="card"><span class="tag">card-AI-powered-…-dark.svg</span><img src="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-dark.svg" width="420"></div>
+  <div class="card"><span class="tag">card-reccomendation-engine-dark.svg</span><img src="assets/card-reccomendation-engine-dark.svg" width="420"></div>
+</div>
+<div class="row">
+  <div class="card light"><span class="tag">card-TalentRank-light.svg</span><img src="assets/card-TalentRank-light.svg" width="420"></div>
+  <div class="card light"><span class="tag">card-reccomendation-engine-light.svg</span><img src="assets/card-reccomendation-engine-light.svg" width="420"></div>
+</div>

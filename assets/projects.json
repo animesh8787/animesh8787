@@ -1,0 +1,22 @@
+{
+  "_comment": "Featured repos, in README order. Stars/forks/language come live from the API on every run. The description here overrides the repo's GitHub description - two of these repos have none set, so go add real one-line descriptions on GitHub too and then you can delete those overrides.",
+  "projects": [
+    {
+      "repo": "TalentRank",
+      "description": "Explainable resume screening and candidate ranking. FastAPI + React, with scores you can actually trace back to why a candidate placed where they did."
+    },
+    {
+      "repo": "nexus-os",
+      "description": "A personal engineering dashboard: LeetCode and GitHub tracking, an AI coach, and a live job feed, all in one place."
+    },
+    {
+      "repo": "AI-powered-Industrial-Knowledge-Intelligence-Platform",
+      "name": "AI Knowledge Platform",
+      "description": "Turns scattered industrial documentation into a searchable knowledge base you can ask questions of in plain language."
+    },
+    {
+      "repo": "reccomendation-engine",
+      "description": "A from-scratch recommendation engine - collaborative filtering and content-based ranking on real rating data."
+    }
+  ]
+}

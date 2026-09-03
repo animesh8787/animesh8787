@@ -1,0 +1,13 @@
+{
+  "title": "Skill Radar",
+  "_comment": "SELF-RATED, 0-100, entirely your call. These are a starting guess from your public repos, not a measurement - edit them until they feel honest. 5-8 axes reads best; don't put everything at 90 (a maxed radar is just a circle).",
+  "axes": [
+    { "label": "Python",       "value": 82 },
+    { "label": "Machine Learning", "value": 68 },
+    { "label": "Data / pandas", "value": 74 },
+    { "label": "C++ / DSA",     "value": 72 },
+    { "label": "JavaScript / TS", "value": 66 },
+    { "label": "React",         "value": 60 },
+    { "label": "APIs / FastAPI", "value": 64 }
+  ]
+}

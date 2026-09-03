@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+
+# source photos — the portrait SVG is committed; the raw photo is not
+photo.jpeg
+photo.jpg
+photo.png
+me.jpg
+me.png
+me-cutout.png
+prepped-photo.png
