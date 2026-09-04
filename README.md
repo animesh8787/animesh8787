@@ -34,8 +34,11 @@
 
 Hi, I'm **Animesh** — A final-year CS student who spends most of my time building privacy-first, on-device AI systems and studying how they perform and fail under real-world conditions. My work spans production software engineering, applied ML research, and the systems design that connects them. This includes co-authoring a deep learning paper currently under review at Elsevier and building a full-stack AI assistant that keeps every byte of inference on-device.
 
-- Currently building **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
-- Also running **[nexus-os](https://animesh8787.github.io/nexus-os)**, a personal engineering dashboard
+- Currently building **[Ashwatthama](https://www.ashwatthama.dev/)** — fully offline AI desktop assistant, Electron + FastAPI + Ollama
+- Things Already Deployed and running live are following projects :-
+- **[Nexus OS](https://animesh8787.github.io/nexus-os)**, a personal engineering dashboard
+- **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
+- **[ArthSetu](https://arth-setu-six.vercel.app/)** — explainable business identity resolution for government records, FastAPI + React
 - Portfolio: **[animeshdhiman.dev](https://animeshdhiman.dev)**
 - Learning **ML systems**, and how to ship a FastAPI/React app end to end
 
