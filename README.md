@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/animesh-dhiman-658250311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:workreachoutanimesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://animeshdhiman.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
-<a href="https://leetcode.com/u/animesh_D/"><img src="https://img.shields.io/badge/LeetCode-282828?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
+<a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-282828?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=animesh8787&style=flat&color=39d353&label=profile+views" alt="profile views">
 
