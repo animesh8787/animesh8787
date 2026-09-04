@@ -13,7 +13,7 @@
 
 <!-- NAME / TAGLINE — animated typing -->
 <a href="https://github.com/animesh8787">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Animesh;Machine+Learning+and+Data+Science;Final+Year+CS+student;Building+in+the+open" alt="typing banner">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2600&pause=900&color=39D353&center=true&vCenter=true&width=560&lines=Animesh;ML+and+AI +Dev;Final+Year+CS+student;Building+in+the+open;Love+to+Contribute" alt="typing banner">
 </a>
 
 <br>
@@ -32,9 +32,7 @@
 
 ## BIO
 
-Hi, I'm **Animesh** — a Final year CS student who spends most of the time at the
-machine-learning and data end of things, and the rest building web tools to sit
-on top of them.
+Hi, I'm **Animesh** — A final-year CS student who spends most of my time building privacy-first, on-device AI systems and studying how they perform and fail under real-world conditions. My work spans production software engineering, applied ML research, and the systems design that connects them. This includes co-authoring a deep learning paper currently under review at Elsevier and building a full-stack AI assistant that keeps every byte of inference on-device.
 
 - Currently building **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
 - Also running **[nexus-os](https://animesh8787.github.io/nexus-os)**, a personal engineering dashboard
