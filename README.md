@@ -36,7 +36,7 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
 
 - Currently building **[Ashwatthama](https://www.ashwatthama.dev/)** — fully offline AI desktop assistant, Electron + FastAPI + Ollama
 - Projects Already Deployed and running live are following :-
-     - **[Nexus OS](https://animesh8787.github.io/nexus-os)**, a personal engineering dashboard
+     - **[Nexus OS](https://animesh8787.github.io/nexus-os)** — a personal engineering dashboard
      - **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
      - **[ArthSetu](https://arth-setu-six.vercel.app/)** — explainable business identity resolution for government records, FastAPI + React
 - Portfolio: **[Animesh Dhiman](https://animeshdhiman.dev)**
