@@ -22,6 +22,7 @@
 <a href="https://linkedin.com/in/animesh-dhiman-658250311"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:workreachoutanimesh@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 <a href="https://animeshdhiman.dev"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+<a href="https://leetcode.com/u/animesh_D/"><img src="https://img.shields.io/badge/LeetCode-282828?style=flat&logo=leetcode&logoColor=FFA116" alt="LeetCode"></a>
 
 <img src="https://komarev.com/ghpvc/?username=animesh8787&style=flat&color=39d353&label=profile+views" alt="profile views">
 
@@ -35,15 +36,14 @@
 $ cat about.txt
 ```
 
-Hi, I'm **Animesh** — a 4th-year CS student who spends most of the time at the
+Hi, I'm **Animesh** — a Final year CS student who spends most of the time at the
 machine-learning and data end of things, and the rest building web tools to sit
 on top of them.
 
-- Currently building **[TalentRank](https://github.com/animesh8787/TalentRank)** — explainable resume screening, FastAPI + React
-- Also running **[nexus-os](https://github.com/animesh8787/nexus-os)**, a personal engineering dashboard
+- Currently building **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
+- Also running **[nexus-os](https://animesh8787.github.io/nexus-os)**, a personal engineering dashboard
 - Portfolio: **[animeshdhiman.dev](https://animeshdhiman.dev)**
 - Learning **ML systems**, and how to ship a FastAPI/React app end to end
-- Goal: **Google Summer of Code 2026**
 
 <br>
 
