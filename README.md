@@ -39,7 +39,7 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
 - **[Nexus OS](https://animesh8787.github.io/nexus-os)**, a personal engineering dashboard
 - **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
 - **[ArthSetu](https://arth-setu-six.vercel.app/)** — explainable business identity resolution for government records, FastAPI + React
-- Portfolio: **[animeshdhiman.dev](https://animeshdhiman.dev)**
+- Portfolio: **[Animesh Dhiman](https://animeshdhiman.dev)**
 - Learning **ML systems**, and how to ship a FastAPI/React app end to end
 
 <br>
