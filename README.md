@@ -36,9 +36,10 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
 
 - Currently building **[Ashwatthama](https://www.ashwatthama.dev/)** — fully offline AI desktop assistant, Electron + FastAPI + Ollama
 - Projects Already Deployed and running live are following :-
+     - **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening
+     - **[ArthSetu](https://arth-setu-six.vercel.app/)** — explainable business identity resolution for government records
+     - **[OpsBrain](https://opsbrain-seven.vercel.app/)** — searchable industrial documentation
      - **[Nexus OS](https://animesh8787.github.io/nexus-os)** — a personal engineering dashboard
-     - **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening, FastAPI + React
-     - **[ArthSetu](https://arth-setu-six.vercel.app/)** — explainable business identity resolution for government records, FastAPI + React
 - Portfolio: **[Animesh Dhiman](https://animeshdhiman.dev)**
 - Learning **ML systems**, and how to ship a FastAPI/React app end to end
 
@@ -137,7 +138,15 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="assets/card-TalentRank-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-TalentRank-light.svg">
-    <img src="assets/card-TalentRank-dark.svg" width="440" alt="TalentRank — explainable resume screening, FastAPI + React">
+    <img src="assets/card-TalentRank-dark.svg" width="440" alt="TalentRank — explainable resume screening">
+  </picture>
+</a>
+
+<a href="https://github.com/animesh8787/ArthSetu">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/card-reccomendation-engine-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-reccomendation-engine-light.svg">
+    <img src="assets/card-reccomendation-engine-dark.svg" width="440" alt="ArthSetu — explainable business identity resolution for government records">
   </picture>
 </a>
 
@@ -149,11 +158,11 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
   </picture>
 </a>
 
-<a href="https://github.com/animesh8787/AI-powered-Industrial-Knowledge-Intelligence-Platform">
+<a href="https://github.com/animesh8787/OPSBRAIN">
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-light.svg">
-    <img src="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-dark.svg" width="440" alt="AI Knowledge Platform — searchable industrial documentation">
+    <img src="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-dark.svg" width="440" alt="OpsBrain — searchable industrial documentation">
   </picture>
 </a>
 
