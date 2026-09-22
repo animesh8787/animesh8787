@@ -39,7 +39,7 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
      - **[TalentRank](https://frontend-lake-phi-56.vercel.app)** — explainable resume screening
      - **[ArthSetu](https://arth-setu-six.vercel.app/)** — explainable business identity resolution for government records
      - **[OpsBrain](https://opsbrain-seven.vercel.app/)** — searchable industrial documentation
-     - **[Nexus OS](https://animesh8787.github.io/nexus-os)** — a personal engineering dashboard
+     - **[Nexus OS](https://nexus-os-theta-eight.vercel.app/)** — job-hunt platform for engineers 
 - Portfolio: **[Animesh Dhiman](https://animeshdhiman.dev)**
 - Learning **ML systems**, and how to ship a FastAPI/React app end to end
 
@@ -154,7 +154,7 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
   <picture>
     <source media="(prefers-color-scheme: dark)"  srcset="assets/card-nexus-os-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="assets/card-nexus-os-light.svg">
-    <img src="assets/card-nexus-os-dark.svg" width="440" alt="nexus-os — a personal engineering dashboard">
+    <img src="assets/card-nexus-os-dark.svg" width="440" alt="nexus-os — job-hunt platform for engineers ">
   </picture>
 </a>
 
