@@ -172,6 +172,6 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
 
 <div align="center">
 
-<sub>Everything on this page is a file in this repo — the charts redraw themselves on a schedule.</sub>
+<sub>Everything on this page is generated from this repository the charts and cards refresh automatically through GitHub Actions.</sub>
 
 </div>
