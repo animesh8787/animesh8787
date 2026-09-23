@@ -144,9 +144,9 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
 
 <a href="https://github.com/animesh8787/ArthSetu">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="assets/card-reccomendation-engine-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-reccomendation-engine-light.svg">
-    <img src="assets/card-reccomendation-engine-dark.svg" width="440" alt="ArthSetu — explainable business identity resolution for government records">
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/card-ArthSetu-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-ArthSetu-light.svg">
+    <img src="assets/card-ArthSetu-dark.svg" width="440" alt="ArthSetu — explainable business identity resolution for government records">
   </picture>
 </a>
 
@@ -160,9 +160,9 @@ Hi, I'm **Animesh** — A final-year CS student who spends most of my time build
 
 <a href="https://github.com/animesh8787/OPSBRAIN">
   <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-light.svg">
-    <img src="assets/card-AI-powered-Industrial-Knowledge-Intelligence-Platform-dark.svg" width="440" alt="OpsBrain — searchable industrial documentation">
+    <source media="(prefers-color-scheme: dark)"  srcset="assets/card-OPSBRAIN-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/card-OPSBRAIN-light.svg">
+    <img src="assets/card-OPSBRAIN-dark.svg" width="440" alt="OpsBrain — searchable industrial documentation">
   </picture>
 </a>
 
